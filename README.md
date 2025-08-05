@@ -24,3 +24,4 @@ Sistema de suporte técnico que simula abertura e atendimento de chamados com pr
 ## 📦 Como executar
 ```bash
 python main.py
+executável disponível
